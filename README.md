@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning: **Nextjs**
+- 🌱 I’m currently learning: **Nextjs and DevOps**
 
 - 👯 I’m looking to collaborate on: **Frontend projects**
 
