@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vishal Anand</h1>
-<h3 align="center">Passionate front-end developer and DevOps Engineer with a love for new technologies and emerging trends. Always looking for new ways to build interactive user interfaces.</h3>
+<h3 align="center">Passionate Data Engineer and front-end developer with a love for new technologies and emerging trends. Always looking for new ways to build interactive user interfaces.</h3>
 
 
 
 
 
-- 🌱 I’m currently learning: **Nextjs and DevOps**
+- 🌱 I’m currently learning: **Airflow**
 
-- 👯 I’m looking to collaborate on: **Frontend projects**
+- 👯 I’m looking to collaborate on: **Big data and ETL projects**
 
-- 💬 Ask me about: **react,javascript,HTML,Typescript,Tailwind, Linux**
+- 💬 Ask me about: **Linux, Spark, cloud**
 
 - 📫 How to reach me: **vishaljaiswal224@gmail.com**
 
