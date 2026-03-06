@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal Anand! 👋
 
-Highly motivated Data Engineer with a strong foundation in data pipelines. Proven ability to design, build, and maintain robust and scalable data solutions. Eager to contribute to innovative projects and stay abreast of the latest technologies.
+Highly motivated Data professional with a strong foundation in data pipelines, sql , python. Ability to design, build, and maintain robust and scalable data solutions. Eager to contribute to innovative projects and stay abreast of the latest technologies.
 
 ## 🔧 Technologies & Tools
 
